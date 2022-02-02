@@ -4,7 +4,7 @@ import static com.examples.util.Print.*;
 
 /**
  * @author Elizaveta Kotova
- * @author www.example.com
+ * @author www.examples.com
  * @version 4.0
  */
 public class HelloDate {
