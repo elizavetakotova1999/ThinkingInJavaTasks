@@ -11,7 +11,5 @@ public class EqualsMethod2 {
         System.out.println(v1.equals(v2));//false
         // equals  по умолчанию сравнивает ссылки, а не содержимое
         //здесь нужно переопределить метод equals
-
     }
-
 }
