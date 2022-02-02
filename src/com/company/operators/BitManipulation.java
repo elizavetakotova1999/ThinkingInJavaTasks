@@ -4,7 +4,7 @@ import java.util.Random;
 
 import static com.company.util.Print.print;
 
-public class BitManipulation {
+public class BitManipulation {//использование поразрядных операторов
     public static void main(String[] args) {
         Random rand = new Random(47);
         int i = rand.nextInt();
