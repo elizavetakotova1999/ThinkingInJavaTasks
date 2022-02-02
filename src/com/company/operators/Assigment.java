@@ -3,7 +3,6 @@ package com.company.operators;
 import static com.company.util.Print.*;
 
 public class Assigment {//Присваивание
-
     public static void main(String[] args) {
         Tank t1 = new Tank();
         Tank t2 = new Tank();
