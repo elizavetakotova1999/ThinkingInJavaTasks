@@ -1,6 +1,6 @@
-package com.company.operators;
+package com.examples.operators;
 
-import static com.company.util.Print.print;
+import static com.examples.util.Print.print;
 
 public class URShift {//Проверка беззнакового сдвига вправо
     public static void main(String[] args) {
