@@ -2,7 +2,7 @@ package com.company.operators;
 
 import static com.company.util.Print.print;
 
-public class URShift {
+public class URShift {//Проверка беззнакового сдвига вправо
     public static void main(String[] args) {
         int i = -1;
         print(Integer.toBinaryString(i));
