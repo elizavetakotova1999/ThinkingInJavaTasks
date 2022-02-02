@@ -1,5 +1,6 @@
 package com.company.object;
 import java.util.*;
+import static com.company.util.Print.*;
 
 /**
  * @author Elizaveta Kotova
@@ -13,7 +14,7 @@ public class HelloDate {
      */
 
     public static void main(String[] args) {
-        System.out.println("Привет, сегодня: ");
-        System.out.println(new Date()); //выводит текущие день, месяц, число, время и год.
+        print("Привет, сегодня: "); //заменяем System.out.println() на метод print()
+        print(new Date()); //выводит текущие день, месяц, число, время и год.
     }
 }
