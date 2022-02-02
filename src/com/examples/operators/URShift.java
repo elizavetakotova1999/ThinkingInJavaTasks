@@ -21,5 +21,6 @@ public class URShift {//Проверка беззнакового сдвига �
         b = -1;
         print(Integer.toBinaryString(b));
         print(Integer.toBinaryString(b>>>10));
+
     }
 }
