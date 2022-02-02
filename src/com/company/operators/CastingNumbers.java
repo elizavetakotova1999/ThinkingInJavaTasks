@@ -2,7 +2,7 @@ package com.company.operators;
 
 import static com.company.util.Print.print;
 
-public class CastingNumbers {//Округление и усечение
+public class CastingNumbers {//Усечение чисел
     //что происходит при приведении float или double при приведении к целочисленным значениям?
     public static void main(String[] args) {
         double above = 0.7, below = 0.4;
