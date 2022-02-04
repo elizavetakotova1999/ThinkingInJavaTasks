@@ -1,7 +1,7 @@
 package com.examples.initialization;
 
 import static com.examples.util.Print.print;
-
+//Демонстрация перегрузки конструкторов наряду с перегрузкой обычных методов
 class Tree{
     int height;
     Tree(){
