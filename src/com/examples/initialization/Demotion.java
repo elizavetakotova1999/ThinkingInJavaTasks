@@ -2,7 +2,8 @@ package com.examples.initialization;
 import static com.examples.util.Print.print;
 
 //Понижение примитивов и перегрузка
-
+//Здесь методы требуют сужения типов данных.
+// Если аргумент "шире", его необходимо привести явно к нужному типу
 public class Demotion {
         void f1(char x) { print("f1(char)"); }
         void f1(byte x) { print("f1(byte)"); }
