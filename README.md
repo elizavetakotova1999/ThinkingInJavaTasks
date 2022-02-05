@@ -2,6 +2,6 @@
 <p>1.Обьекты(object)
 <p>2.Операторы(operators)
 <p>3.Управляющие конструкции(control)
-<p>4.Инициализация и завершение(initialization)
+<p>4.Инициализация и завершение(<a href = "https://github.com/elizavetakotova1999/ThinkingInJavaTasks/tree/master/src/com/examples/initialization">initialization)
   
 
