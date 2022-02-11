@@ -16,7 +16,7 @@ class Cleanser {
 }
 
 public class Detergent extends Cleanser {
-    // Change a method:
+    // Изменяем метод:
     public void scrub() {
         append(" Detergent.scrub()");
         super.scrub(); // Вызываем метод базового класса
