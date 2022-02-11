@@ -16,3 +16,4 @@ public class SpaceShip extends SpaceShipControls {
         protector.forward(100);
     }
 }
+
